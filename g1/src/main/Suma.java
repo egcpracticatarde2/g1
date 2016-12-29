@@ -2,8 +2,8 @@ package main;
 
 public class Suma {
 	
-	public Integer suma(Integer a, Integer b){
-		return a + b;
+	public Integer suma(Integer x, Integer y){
+		return x + y;
 	}
 
 }
