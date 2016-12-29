@@ -6,7 +6,7 @@ public class TestSuma {
 
 	public static void main(String[] args) {
 		Suma suma = new Suma();
-		Integer res = suma.suma(1, 2);
+		Integer res = suma.suma(1, 2, 3);
 		System.out.println(res);
 
 	}
